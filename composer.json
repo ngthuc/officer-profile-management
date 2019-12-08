@@ -1,6 +1,6 @@
 {
     "require": {
         "ngthuc/ci-custom-core": "^2.4",
-        "ngthuc/trippo-filemanager": "^2.2"
+        "ngthuc/trippo-filemanager": "^2.3"
     }
 }
