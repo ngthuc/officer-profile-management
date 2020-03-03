@@ -1,0 +1,42 @@
+{
+  "name": "officer-profile-management",
+  "version": "1.0.0",
+  "description": "Graduation Thesis of ICT College, Can Tho University: Officer Profile Management Project",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "gulp-cssnano": "^2.1.3",
+    "jquery": "^3.4.1",
+    "jquery-lazyload": "^1.9.7"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-cli": "^2.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^4.0.1",
+    "gulp4-run-sequence": "^1.0.0"
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngthuc/officer-profile-management"
+  },
+  "keywords": [
+    "ngthuc"
+  ],
+  "author": "Nguyen Thuc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngthuc/officer-profile-management/issues"
+  },
+  "homepage": "http://localhost/"
+}

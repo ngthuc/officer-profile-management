@@ -9,10 +9,12 @@ application/logs/*
 !application/*/.htaccess
 
 composer.lock
+package-lock.json
 /vendor/
 /upload/
 /thumbs/
 /public/bower_components
+/node_modules/
 .env
 
 rsa.private
@@ -42,3 +44,4 @@ readme.rst
 *.sublime-project
 /tests/tests/
 /tests/results/
+
