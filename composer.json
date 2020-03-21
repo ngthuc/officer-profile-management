@@ -1,6 +1,7 @@
 {
+    "name": "graduation-thesis-2",
+    "description": "",
     "require": {
-        "ngthuc/ci-custom-core": "^2.4",
-        "ngthuc/trippo-filemanager": "^2.4"
+        "ngthuc/ci-custom-core": "^2.5.1"
     }
 }
